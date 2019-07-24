@@ -1,5 +1,5 @@
 
-// Timelines Swiper
+// Timeline Swiper
 $(function () {
 
     var timelineSwiper = new Swiper('.timeline .swiper-container', {
